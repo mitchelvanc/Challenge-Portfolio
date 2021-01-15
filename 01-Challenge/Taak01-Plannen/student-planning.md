@@ -12,15 +12,15 @@
 
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
-| Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             | -      |
-| ...         | Styling van elementen bepalen                  | 00:05 u             | -      |
-| Realiseren  | Bestanden aanmaken                             | 00:20 u             | -      |
+| Planning    | Planning maken                                 | 00:30 u             | klaar  |
+| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             | bezig  |
+| ...         | Styling van elementen bepalen                  | 00:05 u             | bezig  |
+| Realiseren  | Bestanden aanmaken                             | 00:20 u             | bezig  |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              | 00:05 u             | -      |
+| Testen      | Applicatie testen                              | 00:05 u             | bezig  |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | -      |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | bezig  |
 | ...         |                                                |                     |        |
 | Presenteren |                                                |                     |        |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |  01:00 u            | -      |
+| Refecteren  | Reflectiedocument schrijven                    |  01:00 u            | bezig  |

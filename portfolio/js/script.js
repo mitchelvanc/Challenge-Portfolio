@@ -10,7 +10,14 @@ leeftijd = prompt("wat is uw leeftijd");
 
 console.log(document.querySelector(".user"));
 
-document.querySelector(".user").innerHTML ="Welkom, " + naam + leeftijd;
+
+console.log(naam);
+if(naam !== null){
+    document.querySelector(".user").innerHTML ="Welkom, " + naam + leeftijd;
+}
+    else{
+        document.querySelector(".user").innerHTML ="Welkom, ";
+    };
 
 if(leeftijd <=17){
     document.querySelector(".user").style.backgroundColor = "red";
@@ -18,6 +25,9 @@ if(leeftijd <=17){
  else{
     document.querySelector(".user").style.backgroundColor = "green";
  };
+
+
+
  
 
  

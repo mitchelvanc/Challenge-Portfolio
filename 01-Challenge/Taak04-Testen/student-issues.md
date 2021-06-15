@@ -4,4 +4,4 @@
 
 1. projects werkt niet
 2. welkom nullnull
-3. contact werkt nog niet helemaal.
+3. projects werkt niet
